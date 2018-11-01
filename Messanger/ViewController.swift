@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("mac 2 changes")
         print ("mac 1 change")
+        print ("mac1 second change")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
