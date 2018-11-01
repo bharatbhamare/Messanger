@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("mac 2 changes")
+        print ("mac 1 change")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
